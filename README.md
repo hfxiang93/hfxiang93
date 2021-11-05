@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 💬 About me [我的博客](https://hfxiang93.github.io/my-blog/)
 - 📫 How to reach me: [邮箱(hfxiang2@aliyun.com)]()
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=hfxiang93&show_icons=true&theme=tokyonight)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfxiang93&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/hfxiang93/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfxiang93&layout=compact&exclude_repo=hfxiang93.github.io&theme=tokyonight)](https://github.com/hfxiang93/github-readme-stats)
